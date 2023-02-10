@@ -14,7 +14,7 @@ N/A
 Press the Generator Password Button to create your new password that meets your criteria 
 
 <img src= "assests/Screen Shot 2023-02-10 at 12.10.43 PM.png" alt="picture of the password generator site">
-
+<a href = "https://kr1istin.github.io/Password-Generator/">Link To Password Generator</a>
 
 ## License
 N/A
